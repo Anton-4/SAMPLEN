@@ -1,0 +1,28 @@
+
+### Scala ###
+*.class
+*.log
+RamboDambo_Scala/src/main/resources/datasets/*
+
+.ipynb_checkpoints
+
+# sbt specific
+.cache/
+.history/
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+.idea
+md_project/output/source
+
+Notebooks/*.csv
+Notebooks/*.png
+
+__pycache__
+
+history.csv
