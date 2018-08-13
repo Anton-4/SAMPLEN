@@ -1,4 +1,4 @@
-# thesis abstract
+## thesis abstract
 
 Tree based ensemble methods like Random Forest and Extreme Gradient Boosting
 are widely used because of their ease-of-use, fast training and excellent
@@ -11,3 +11,7 @@ neural nets are either highly overfitted or trained with early stopping.
 Through well configured random search we are able to efficiently
 optimize the architectures and hyperparameters for this ensemble of neural networks.
 SAMPLEN outperforms Random Forest on three out of four tested datasets without sacrificing practical usability.
+
+## Acknowledgement
+
+SAMPLEN is based on an algorithm developed by Joeri Ruyssinck.
